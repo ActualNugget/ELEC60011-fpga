@@ -1,0 +1,1 @@
+Warning (10268): Verilog HDL information at cordic_cosine.v(48): always construct contains both blocking and non-blocking assignments File: C:/Users/Galileo/Projects/ELEC60011-fpga/inner_function/cordic_cosine.v Line: 48

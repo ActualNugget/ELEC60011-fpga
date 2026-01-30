@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<simPackage>
+ <file path="fp_to_fix_sim/fp_to_fix.vo" type="VERILOG" />
+ <topLevel name="fp_to_fix" />
+ <deviceFamily name="cyclonev" />
+</simPackage>

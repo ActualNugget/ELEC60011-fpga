@@ -1,0 +1,6 @@
+
+
+C:/Users/Galileo/Projects/ELEC60011-fpga/inner_function/fp_add.v
+
+Mar 16 06PM:17:50>: Megafunction FP_FUNCTIONS Intel FPGA IP v23.1 is not listed in any 
+wizard.lst file in the specified library path(s).Wizard launch aborted

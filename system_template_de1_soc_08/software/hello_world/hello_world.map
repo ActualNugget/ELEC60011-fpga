@@ -1,0 +1,1358 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(addsf3.o)
+                              obj/default/hello_world.o (__addsf3)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(divsf3.o)
+                              obj/default/hello_world.o (__divsf3)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(mulsf3.o)
+                              obj/default/hello_world.o (__mulsf3)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clzsi2.o)
+                              c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(addsf3.o) (__clzsi2)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+                              c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(mulsf3.o) (__mulsi3)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clz.o)
+                              c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clzsi2.o) (__clz_tab)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+                              obj/default/hello_world.o (printf)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+                              obj/default/hello_world.o (puts)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-strlen.o)
+                              c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o) (strlen)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-impure.o)
+                              c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o) (_impure_ptr)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+                              c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o) (___vfprintf_internal_r)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o)
+                              c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o) (__sfvwrite_small_dev)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o)
+                              c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o) (_write_r)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-int_errno.o)
+                              c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o) (errno)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                              c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o) (__udivsi3)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_load.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp//obj/HAL/src/crt0.o (alt_load)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp//obj/HAL/src/crt0.o (alt_main)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_times.o)
+                              obj/default/hello_world.o (times)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_write.o)
+                              c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o) (write)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o) (alt_irq_init)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_avalon_jtag_uart_read_fd)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_read)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o) (altera_avalon_jtag_uart_write)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_avalon_timer_sc_init)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_close.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o) (close)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_load.o) (alt_dcache_flush_all)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_list)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o) (alt_dev_llist_insert)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_errno.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_times.o) (alt_errno)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_load.o) (alt_icache_flush_all)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o) (alt_ic_isr_register)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic.o) (alt_iic_isr_register)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o) (alt_io_redirect)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq_entry)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic_isr_register.o) (alt_irq)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic.o) (alt_irq_active)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_open.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_io_redirect.o) (open)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_release_fd.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_close.o) (alt_release_fd)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_tick.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_times.o) (_alt_tick_rate)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o) (altera_nios2_gen2_irq_init)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o) (alt_exception)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_dev.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_open.o) (alt_find_dev)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_file.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_open.o) (alt_find_file)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_get_fd.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_open.o) (alt_get_fd)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush_all.o) (alt_icache_flush)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o) (alt_instruction_exception_entry)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o) (exit)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-memcmp.o)
+                              c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_dev.o) (memcmp)
+c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
+                              c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o) (__call_exitprocs)
+c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exit.o)
+                              c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o) (_exit)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+reset            0x00008000         0x00000020
+onchip_mem       0x00008020         0x00004fe0
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp//obj/HAL/src/crt0.o
+LOAD obj/default/hello_world.o
+LOAD c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libstdc++.a
+LOAD c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+LOAD c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a
+START GROUP
+LOAD c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a
+LOAD c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a
+LOAD c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a
+LOAD c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libm.a
+END GROUP
+LOAD c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a
+                0x00008000                        __alt_mem_onchip_mem = 0x8000
+
+.entry          0x00008000       0x20
+ *(.entry)
+ .entry         0x00008000       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp//obj/HAL/src/crt0.o
+                0x00008000                __reset
+
+.exceptions     0x00008020      0x218
+                0x00008020                        PROVIDE (__ram_exceptions_start = ABSOLUTE (.))
+                0x00008020                        . = ALIGN (0x20)
+ *(.irq)
+ *(.exceptions.entry.label)
+ .exceptions.entry.label
+                0x00008020        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                0x00008020                alt_irq_entry
+ .exceptions.entry.label
+                0x00008020        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                0x00008020                alt_exception
+ *(.exceptions.entry.user)
+ *(.exceptions.entry.ecc_fatal)
+ *(.exceptions.entry)
+ .exceptions.entry
+                0x00008020       0x54 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.irqtest.user)
+ *(.exceptions.irqtest)
+ .exceptions.irqtest
+                0x00008074       0x10 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqhandler.user)
+ *(.exceptions.irqhandler)
+ .exceptions.irqhandler
+                0x00008084        0x4 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.irqreturn.user)
+ *(.exceptions.irqreturn)
+ .exceptions.irqreturn
+                0x00008088        0x4 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.label)
+ .exceptions.notirq.label
+                0x0000808c        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ *(.exceptions.notirq.user)
+ *(.exceptions.notirq)
+ .exceptions.notirq
+                0x0000808c        0x8 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.soft.user)
+ *(.exceptions.soft)
+ *(.exceptions.unknown.user)
+ *(.exceptions.unknown)
+ .exceptions.unknown
+                0x00008094       0x14 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.label)
+ .exceptions.exit.label
+                0x000080a8        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .exceptions.exit.label
+                0x000080a8        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions.exit.user)
+ *(.exceptions.exit)
+ .exceptions.exit
+                0x000080a8       0x54 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ *(.exceptions)
+ .exceptions    0x000080fc       0xc8 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                0x000080fc                alt_irq_handler
+ .exceptions    0x000081c4       0x74 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x000081c4                alt_instruction_exception_entry
+                0x00008238                        PROVIDE (__ram_exceptions_end = ABSOLUTE (.))
+                0x00008020                        PROVIDE (__flash_exceptions_start = LOADADDR (.exceptions))
+
+.text           0x00008238     0x3130
+                [!provide]                        PROVIDE (stext = ABSOLUTE (.))
+ *(.interp)
+ *(.hash)
+ *(.dynsym)
+ *(.dynstr)
+ *(.gnu.version)
+ *(.gnu.version_d)
+ *(.gnu.version_r)
+ *(.rel.init)
+ *(.rela.init)
+ *(.rel.text .rel.text.* .rel.gnu.linkonce.t.*)
+ *(.rela.text .rela.text.* .rela.gnu.linkonce.t.*)
+ *(.rel.fini)
+ *(.rela.fini)
+ *(.rel.rodata .rel.rodata.* .rel.gnu.linkonce.r.*)
+ *(.rela.rodata .rela.rodata.* .rela.gnu.linkonce.r.*)
+ *(.rel.data .rel.data.* .rel.gnu.linkonce.d.*)
+ *(.rela.data .rela.data.* .rela.gnu.linkonce.d.*)
+ *(.rel.tdata .rel.tdata.* .rel.gnu.linkonce.td.*)
+ *(.rela.tdata .rela.tdata.* .rela.gnu.linkonce.td.*)
+ *(.rel.tbss .rel.tbss.* .rel.gnu.linkonce.tb.*)
+ *(.rela.tbss .rela.tbss.* .rela.gnu.linkonce.tb.*)
+ *(.rel.ctors)
+ *(.rela.ctors)
+ *(.rel.dtors)
+ *(.rela.dtors)
+ *(.rel.got)
+ *(.rela.got)
+ *(.rel.sdata .rel.sdata.* .rel.gnu.linkonce.s.*)
+ *(.rela.sdata .rela.sdata.* .rela.gnu.linkonce.s.*)
+ *(.rel.sbss .rel.sbss.* .rel.gnu.linkonce.sb.*)
+ *(.rela.sbss .rela.sbss.* .rela.gnu.linkonce.sb.*)
+ *(.rel.sdata2 .rel.sdata2.* .rel.gnu.linkonce.s2.*)
+ *(.rela.sdata2 .rela.sdata2.* .rela.gnu.linkonce.s2.*)
+ *(.rel.sbss2 .rel.sbss2.* .rel.gnu.linkonce.sb2.*)
+ *(.rela.sbss2 .rela.sbss2.* .rela.gnu.linkonce.sb2.*)
+ *(.rel.bss .rel.bss.* .rel.gnu.linkonce.b.*)
+ *(.rela.bss .rela.bss.* .rela.gnu.linkonce.b.*)
+ *(.rel.plt)
+ *(.rela.plt)
+ *(.rel.dyn)
+ *(.init)
+ *(.plt)
+ *(.text .stub .text.* .gnu.linkonce.t.*)
+ .text          0x00008238       0x4c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp//obj/HAL/src/crt0.o
+                0x00008238                _start
+ .text          0x00008284      0x25c obj/default/hello_world.o
+                0x00008284                generateVector
+                0x0000832c                sumVector
+                0x00008424                main
+ .text          0x000084e0      0x494 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(addsf3.o)
+                0x000084e0                __addsf3
+ .text          0x00008974      0x418 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(divsf3.o)
+                0x00008974                __divsf3
+ .text          0x00008d8c      0x41c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(mulsf3.o)
+                0x00008d8c                __mulsf3
+ .text          0x000091a8       0x50 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clzsi2.o)
+                0x000091a8                __clzsi2
+ .text          0x000091f8       0x28 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+                0x000091f8                __mulsi3
+ .text          0x00009220        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clz.o)
+ .text          0x00009220        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+ .text._printf_r
+                0x00009220       0x3c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+                0x00009220                _printf_r
+ .text.printf   0x0000925c       0x48 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+                0x0000925c                printf
+ .text          0x000092a4        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+ .text._puts_r  0x000092a4       0x80 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+                0x000092a4                _puts_r
+ .text.puts     0x00009324       0x10 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+                0x00009324                puts
+ .text          0x00009334        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-strlen.o)
+ .text.strlen   0x00009334       0x1c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-strlen.o)
+                0x00009334                strlen
+ .text          0x00009350        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-impure.o)
+ .text          0x00009350        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+ .text.print_repeat
+                0x00009350       0x6c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+ .text.___vfprintf_internal_r
+                0x000093bc      0x51c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+                0x000093bc                ___vfprintf_internal_r
+ .text.__vfprintf_internal
+                0x000098d8       0x18 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+                0x000098d8                __vfprintf_internal
+ .text          0x000098f0        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o)
+ .text.__sfvwrite_small_dev
+                0x000098f0       0xa8 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o)
+                0x000098f0                __sfvwrite_small_dev
+ .text          0x00009998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o)
+ .text._write_r
+                0x00009998       0x50 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o)
+                0x00009998                _write_r
+ .text          0x000099e8        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-int_errno.o)
+ .text          0x000099e8      0x1b4 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                0x000099e8                __divsi3
+                0x00009a68                __modsi3
+                0x00009adc                __udivsi3
+                0x00009b40                __umodsi3
+ .text          0x00009b9c       0xec c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_load.o)
+                0x00009c04                alt_load
+ .text          0x00009c88       0x6c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o)
+                0x00009c88                alt_main
+ .text          0x00009cf4       0xb8 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_times.o)
+                0x00009d30                times
+ .text          0x00009dac      0x140 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_write.o)
+                0x00009de8                write
+ .text          0x00009eec       0xc0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o)
+                0x00009f20                alt_irq_init
+                0x00009f5c                alt_sys_init
+ .text          0x00009fac       0xc0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                0x00009fac                altera_avalon_jtag_uart_read_fd
+                0x0000a00c                altera_avalon_jtag_uart_write_fd
+ .text          0x0000a06c       0xec c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                0x0000a06c                altera_avalon_jtag_uart_read
+ .text          0x0000a158       0x98 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                0x0000a158                altera_avalon_jtag_uart_write
+ .text          0x0000a1f0      0x100 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+                0x0000a26c                alt_avalon_timer_sc_init
+ .text          0x0000a2f0      0x118 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_close.o)
+                0x0000a32c                close
+ .text          0x0000a408       0x4c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                0x0000a408                alt_dcache_flush_all
+ .text          0x0000a454       0x2c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev.o)
+ .text          0x0000a480       0xe4 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                0x0000a4bc                alt_dev_llist_insert
+ .text          0x0000a564        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_errno.o)
+ .text          0x0000a564       0x34 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                0x0000a564                alt_icache_flush_all
+ .text          0x0000a598      0x1b0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic.o)
+                0x0000a598                alt_ic_isr_register
+                0x0000a5e8                alt_ic_irq_enable
+                0x0000a670                alt_ic_irq_disable
+                0x0000a6fc                alt_ic_irq_enabled
+ .text          0x0000a748       0xe8 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                0x0000a748                alt_iic_isr_register
+ .text          0x0000a830      0x150 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                0x0000a904                alt_io_redirect
+ .text          0x0000a980        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .text          0x0000a980        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .text          0x0000a980        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .text          0x0000a980      0x278 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_open.o)
+                0x0000aa98                open
+ .text          0x0000abf8       0x70 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_release_fd.o)
+                0x0000abf8                alt_release_fd
+ .text          0x0000ac68      0x1d0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_tick.o)
+                0x0000ac68                alt_alarm_stop
+                0x0000ad0c                alt_tick
+ .text          0x0000ae38       0x24 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                0x0000ae38                altera_nios2_gen2_irq_init
+ .text          0x0000ae5c        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .text          0x0000ae5c       0x90 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_dev.o)
+                0x0000ae5c                alt_find_dev
+ .text          0x0000aeec      0x108 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_file.o)
+                0x0000aeec                alt_find_file
+ .text          0x0000aff4       0xb8 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_get_fd.o)
+                0x0000aff4                alt_get_fd
+ .text          0x0000b0ac       0x90 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush.o)
+                0x0000b0ac                alt_icache_flush
+ .text          0x0000b13c       0x74 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x0000b13c                alt_exception_cause_generated_bad_addr
+ .text          0x0000b1b0        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+ .text.exit     0x0000b1b0       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+                0x0000b1b0                exit
+ .text          0x0000b1d0        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-memcmp.o)
+ .text.memcmp   0x0000b1d0       0x30 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-memcmp.o)
+                0x0000b1d0                memcmp
+ .text          0x0000b200        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x0000b200      0x12c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
+                0x0000b200                __call_exitprocs
+ .text          0x0000b32c       0x3c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exit.o)
+                0x0000b32c                _exit
+ *(.gnu.warning.*)
+ *(.fini)
+                [!provide]                        PROVIDE (__etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (_etext = ABSOLUTE (.))
+                [!provide]                        PROVIDE (etext = ABSOLUTE (.))
+ *(.eh_frame_hdr)
+                0x0000b368                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (__preinit_array_start = ABSOLUTE (.))
+ *(.preinit_array)
+                [!provide]                        PROVIDE (__preinit_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__init_array_start = ABSOLUTE (.))
+ *(SORT_BY_INIT_PRIORITY(.init_array.*))
+ *(.init_array)
+                [!provide]                        PROVIDE (__init_array_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__fini_array_start = ABSOLUTE (.))
+ *(.fini_array)
+                [!provide]                        PROVIDE (__fini_array_end = ABSOLUTE (.))
+ *(.eh_frame)
+ *(.gcc_except_table .gcc_except_table.*)
+ *(.dynamic)
+                [!provide]                        PROVIDE (__CTOR_LIST__ = ABSOLUTE (.))
+ *(.ctors)
+ *(SORT_BY_NAME(.ctors.*))
+                [!provide]                        PROVIDE (__CTOR_END__ = ABSOLUTE (.))
+                [!provide]                        PROVIDE (__DTOR_LIST__ = ABSOLUTE (.))
+ *(.dtors)
+ *(SORT_BY_NAME(.dtors.*))
+                [!provide]                        PROVIDE (__DTOR_END__ = ABSOLUTE (.))
+ *(.jcr)
+                0x0000b368                        . = ALIGN (0x4)
+
+.rodata         0x0000b368      0x164
+                0x0000b368                        PROVIDE (__ram_rodata_start = ABSOLUTE (.))
+                0x0000b368                        . = ALIGN (0x4)
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x0000b368       0x32 obj/default/hello_world.o
+ *fill*         0x0000b39a        0x2 
+ .rodata        0x0000b39c      0x100 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clz.o)
+                0x0000b39c                __clz_tab
+ .rodata._puts_r.str1.4
+                0x0000b49c        0x2 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+ *fill*         0x0000b49e        0x2 
+ .rodata        0x0000b4a0        0xf c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o)
+ *fill*         0x0000b4af        0x1 
+ .rodata        0x0000b4b0        0xf c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o)
+ *fill*         0x0000b4bf        0x1 
+ .rodata        0x0000b4c0        0xa c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev.o)
+ *(.rodata1)
+                0x0000b4cc                        . = ALIGN (0x4)
+ *fill*         0x0000b4ca        0x2 
+                0x0000b4cc                        PROVIDE (__ram_rodata_end = ABSOLUTE (.))
+                0x0000b368                        PROVIDE (__flash_rodata_start = LOADADDR (.rodata))
+
+.rwdata         0x0000b4cc      0x250 load address 0x0000b71c
+                0x0000b4cc                        PROVIDE (__ram_rwdata_start = ABSOLUTE (.))
+                0x0000b4cc                        . = ALIGN (0x4)
+ *(.got.plt)
+ *(.got)
+ *(.data1)
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x0000b4cc        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp//obj/HAL/src/crt0.o
+ .data          0x0000b4cc        0x0 obj/default/hello_world.o
+ .data          0x0000b4cc        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(addsf3.o)
+ .data          0x0000b4cc        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(divsf3.o)
+ .data          0x0000b4cc        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(mulsf3.o)
+ .data          0x0000b4cc        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .data          0x0000b4cc        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .data          0x0000b4cc        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clz.o)
+ .data          0x0000b4cc        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+ .data          0x0000b4cc        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+ .data          0x0000b4cc        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-strlen.o)
+ .data          0x0000b4cc        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-impure.o)
+ .data._impure_data
+                0x0000b4cc       0x54 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-impure.o)
+                0x0000b4cc                _impure_data
+ .data          0x0000b520        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+ .data          0x0000b520        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o)
+ .data          0x0000b520        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o)
+ .data          0x0000b520        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-int_errno.o)
+ .data          0x0000b520        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .data          0x0000b520        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_load.o)
+ .data          0x0000b520        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o)
+ .data          0x0000b520        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_times.o)
+ .data          0x0000b520        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_write.o)
+ .data          0x0000b520       0x2c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .data          0x0000b54c        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .data          0x0000b54c        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .data          0x0000b54c        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .data          0x0000b54c        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .data          0x0000b54c        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_close.o)
+ .data          0x0000b54c        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .data          0x0000b54c      0x1a8 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev.o)
+                0x0000b54c                alt_dev_null
+                0x0000b574                alt_fd_list
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_errno.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_open.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_tick.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_file.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .data          0x0000b6f4        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+ .data          0x0000b6f4        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-memcmp.o)
+ .data          0x0000b6f4        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
+ .data          0x0000b6f4        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exit.o)
+                0x000136f4                        _gp = ABSOLUTE ((. + 0x8000))
+                [!provide]                        PROVIDE (gp = _gp)
+ *(.rwdata .rwdata.*)
+ *(.sdata .sdata.* .gnu.linkonce.s.*)
+ .sdata._impure_ptr
+                0x0000b6f4        0x4 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-impure.o)
+                0x0000b6f4                _impure_ptr
+ .sdata         0x0000b6f8       0x14 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev.o)
+                0x0000b6f8                alt_fs_list
+                0x0000b700                alt_dev_list
+                0x0000b708                alt_max_fd
+ .sdata         0x0000b70c        0x4 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_errno.o)
+                0x0000b70c                alt_errno
+ .sdata         0x0000b710        0x4 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x0000b710                alt_priority_mask
+ .sdata         0x0000b714        0x8 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_tick.o)
+                0x0000b714                alt_alarm_list
+ *(.sdata2 .sdata2.* .gnu.linkonce.s2.*)
+                0x0000b71c                        . = ALIGN (0x4)
+                0x0000b71c                        _edata = ABSOLUTE (.)
+                [!provide]                        PROVIDE (edata = ABSOLUTE (.))
+                0x0000b71c                        PROVIDE (__ram_rwdata_end = ABSOLUTE (.))
+                0x0000b71c                        PROVIDE (__flash_rwdata_start = LOADADDR (.rwdata))
+
+.bss            0x0000b96c      0x12c
+                0x0000b96c                        __bss_start = ABSOLUTE (.)
+                [!provide]                        PROVIDE (__sbss_start = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_start = ABSOLUTE (.))
+ *(.dynsbss)
+ *(.sbss .sbss.* .gnu.linkonce.sb.*)
+ .sbss.errno    0x0000b96c        0x4 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-int_errno.o)
+                0x0000b96c                errno
+ .sbss          0x0000b970        0xc c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o)
+                0x0000b970                alt_argc
+                0x0000b974                alt_argv
+                0x0000b978                alt_envp
+ .sbss          0x0000b97c        0x4 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                0x0000b97c                alt_irq_active
+ .sbss          0x0000b980        0xc c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_tick.o)
+                0x0000b980                _alt_tick_rate
+                0x0000b984                _alt_nticks
+ .sbss          0x0000b98c        0x4 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                0x0000b98c                alt_instruction_exception_handler
+ .sbss.__stdio_exit_handler
+                0x0000b990        0x4 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+                0x0000b990                __stdio_exit_handler
+ .sbss.__atexit
+                0x0000b994        0x4 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
+                0x0000b994                __atexit
+ *(.sbss2 .sbss2.* .gnu.linkonce.sb2.*)
+ *(.scommon)
+                [!provide]                        PROVIDE (__sbss_end = ABSOLUTE (.))
+                [!provide]                        PROVIDE (___sbss_end = ABSOLUTE (.))
+ *(.dynbss)
+ *(.bss .bss.* .gnu.linkonce.b.*)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp//obj/HAL/src/crt0.o
+ .bss           0x0000b998        0x0 obj/default/hello_world.o
+ .bss           0x0000b998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(addsf3.o)
+ .bss           0x0000b998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(divsf3.o)
+ .bss           0x0000b998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(mulsf3.o)
+ .bss           0x0000b998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .bss           0x0000b998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .bss           0x0000b998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clz.o)
+ .bss           0x0000b998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+ .bss           0x0000b998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+ .bss           0x0000b998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-strlen.o)
+ .bss           0x0000b998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-impure.o)
+ .bss           0x0000b998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+ .bss           0x0000b998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o)
+ .bss           0x0000b998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o)
+ .bss           0x0000b998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-int_errno.o)
+ .bss           0x0000b998        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_load.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_times.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_write.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_close.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_errno.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .bss           0x0000b998        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .bss           0x0000b998      0x100 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                0x0000b998                alt_irq
+ .bss           0x0000ba98        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .bss           0x0000ba98        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_open.o)
+ .bss           0x0000ba98        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .bss           0x0000ba98        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_tick.o)
+ .bss           0x0000ba98        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .bss           0x0000ba98        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .bss           0x0000ba98        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .bss           0x0000ba98        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_file.o)
+ .bss           0x0000ba98        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .bss           0x0000ba98        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .bss           0x0000ba98        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .bss           0x0000ba98        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+ .bss           0x0000ba98        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-memcmp.o)
+ .bss           0x0000ba98        0x0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
+ .bss           0x0000ba98        0x0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exit.o)
+ *(COMMON)
+                0x0000ba98                        . = ALIGN (0x4)
+                0x0000ba98                        __bss_end = ABSOLUTE (.)
+
+.onchip_mem     0x0000ba98        0x0
+                [!provide]                        PROVIDE (_alt_partition_onchip_mem_start = ABSOLUTE (.))
+ *(.onchip_mem .onchip_mem. onchip_mem.*)
+                0x0000ba98                        . = ALIGN (0x4)
+                [!provide]                        PROVIDE (_alt_partition_onchip_mem_end = ABSOLUTE (.))
+                0x0000ba98                        _end = ABSOLUTE (.)
+                0x0000ba98                        end = ABSOLUTE (.)
+                0x0000ba98                        __alt_stack_base = ABSOLUTE (.)
+                [!provide]                        PROVIDE (_alt_partition_onchip_mem_load_addr = LOADADDR (.onchip_mem))
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x2d
+ *(.comment)
+ .comment       0x00000000       0x2d obj/default/hello_world.o
+                                 0x2e (size before relaxing)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(addsf3.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(divsf3.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(mulsf3.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clz.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-strlen.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-impure.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-int_errno.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_load.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_times.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_write.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_close.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_errno.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_open.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_tick.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_file.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-memcmp.o)
+ .comment       0x0000002d       0x2e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
+ .comment       0x0000002d       0x2e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x6a8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x28 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp//obj/HAL/src/crt0.o
+ .debug_aranges
+                0x00000028       0x20 obj/default/hello_world.o
+ .debug_aranges
+                0x00000048       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(addsf3.o)
+ .debug_aranges
+                0x00000068       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(divsf3.o)
+ .debug_aranges
+                0x00000088       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(mulsf3.o)
+ .debug_aranges
+                0x000000a8       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .debug_aranges
+                0x000000c8       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_aranges
+                0x000000e8       0x18 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clz.o)
+ .debug_aranges
+                0x00000100       0x28 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+ .debug_aranges
+                0x00000128       0x28 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+ .debug_aranges
+                0x00000150       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-strlen.o)
+ .debug_aranges
+                0x00000170       0x18 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-impure.o)
+ .debug_aranges
+                0x00000188       0x30 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+ .debug_aranges
+                0x000001b8       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o)
+ .debug_aranges
+                0x000001d8       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o)
+ .debug_aranges
+                0x000001f8       0x18 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-int_errno.o)
+ .debug_aranges
+                0x00000210       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_aranges
+                0x00000230       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_aranges
+                0x00000250       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_aranges
+                0x00000270       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_times.o)
+ .debug_aranges
+                0x00000290       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_aranges
+                0x000002b0       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_aranges
+                0x000002d0       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_aranges
+                0x000002f0       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_aranges
+                0x00000310       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_aranges
+                0x00000330       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_aranges
+                0x00000350       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_aranges
+                0x00000370       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_aranges
+                0x00000390       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_aranges
+                0x000003b0       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_aranges
+                0x000003d0       0x18 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_aranges
+                0x000003e8       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_aranges
+                0x00000408       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_aranges
+                0x00000428       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_aranges
+                0x00000448       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_aranges
+                0x00000468       0x30 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_aranges
+                0x00000498       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_aranges
+                0x000004b8       0x18 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_aranges
+                0x000004d0       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_aranges
+                0x000004f0       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_aranges
+                0x00000510       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_aranges
+                0x00000530       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_aranges
+                0x00000550       0x30 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_aranges
+                0x00000580       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_aranges
+                0x000005a0       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_aranges
+                0x000005c0       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_aranges
+                0x000005e0       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_aranges
+                0x00000600       0x28 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_aranges
+                0x00000628       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+ .debug_aranges
+                0x00000648       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-memcmp.o)
+ .debug_aranges
+                0x00000668       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
+ .debug_aranges
+                0x00000688       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x886a
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000       0x3f c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp//obj/HAL/src/crt0.o
+ .debug_info    0x0000003f      0x1e7 obj/default/hello_world.o
+ .debug_info    0x00000226      0x328 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(addsf3.o)
+ .debug_info    0x0000054e      0x33e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(divsf3.o)
+ .debug_info    0x0000088c      0x3e0 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(mulsf3.o)
+ .debug_info    0x00000c6c      0x139 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .debug_info    0x00000da5       0xc4 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_info    0x00000e69       0xc3 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clz.o)
+ .debug_info    0x00000f2c      0x666 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+ .debug_info    0x00001592      0x5ec c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+ .debug_info    0x00001b7e       0xd1 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-strlen.o)
+ .debug_info    0x00001c4f      0x4eb c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-impure.o)
+ .debug_info    0x0000213a      0xd7f c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+ .debug_info    0x00002eb9      0x5c4 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o)
+ .debug_info    0x0000347d      0x5a4 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o)
+ .debug_info    0x00003a21       0x85 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-int_errno.o)
+ .debug_info    0x00003aa6      0x347 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_info    0x00003ded      0x144 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_info    0x00003f31      0x174 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_info    0x000040a5      0x1a3 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_times.o)
+ .debug_info    0x00004248      0x54a c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_info    0x00004792      0x43c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_info    0x00004bce      0x3c9 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_info    0x00004f97      0x144 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_info    0x000050db      0x12b c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_info    0x00005206      0x21d c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_info    0x00005423      0x32f c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_info    0x00005752       0xa1 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_info    0x000057f3      0x567 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_info    0x00005d5a      0x1a8 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_info    0x00005f02       0xa8 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_info    0x00005faa       0xb2 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_info    0x0000605c      0x339 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_info    0x00006395      0x218 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_info    0x000065ad      0x561 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_info    0x00006b0e       0x22 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_info    0x00006b30      0x170 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_info    0x00006ca0       0x88 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_info    0x00006d28      0x415 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_info    0x0000713d      0x2ac c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_info    0x000073e9      0x29e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_info    0x00007687       0x8d c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_info    0x00007714       0x22 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_info    0x00007736      0x323 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_info    0x00007a59      0x324 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_info    0x00007d7d      0x309 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_info    0x00008086       0xd8 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_info    0x0000815e      0x1e8 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_info    0x00008346      0x115 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+ .debug_info    0x0000845b       0xf9 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-memcmp.o)
+ .debug_info    0x00008554      0x234 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
+ .debug_info    0x00008788       0xe2 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_abbrev   0x00000000     0x35e6
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000       0x1f c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp//obj/HAL/src/crt0.o
+ .debug_abbrev  0x0000001f      0x134 obj/default/hello_world.o
+ .debug_abbrev  0x00000153      0x15c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(addsf3.o)
+ .debug_abbrev  0x000002af      0x144 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(divsf3.o)
+ .debug_abbrev  0x000003f3      0x148 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(mulsf3.o)
+ .debug_abbrev  0x0000053b       0xd3 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .debug_abbrev  0x0000060e       0x80 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_abbrev  0x0000068e       0x70 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clz.o)
+ .debug_abbrev  0x000006fe      0x1ec c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+ .debug_abbrev  0x000008ea      0x1db c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+ .debug_abbrev  0x00000ac5       0x8c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-strlen.o)
+ .debug_abbrev  0x00000b51      0x142 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-impure.o)
+ .debug_abbrev  0x00000c93      0x2d9 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+ .debug_abbrev  0x00000f6c      0x1c9 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o)
+ .debug_abbrev  0x00001135      0x1ae c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o)
+ .debug_abbrev  0x000012e3       0x39 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-int_errno.o)
+ .debug_abbrev  0x0000131c      0x10c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_abbrev  0x00001428       0xc2 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_abbrev  0x000014ea       0xf3 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_abbrev  0x000015dd      0x10a c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_times.o)
+ .debug_abbrev  0x000016e7      0x149 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_abbrev  0x00001830      0x1ab c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_abbrev  0x000019db      0x128 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_abbrev  0x00001b03       0xd2 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_abbrev  0x00001bd5       0xd0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_abbrev  0x00001ca5      0x18f c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_abbrev  0x00001e34      0x147 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_abbrev  0x00001f7b       0x5d c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_abbrev  0x00001fd8      0x11b c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_abbrev  0x000020f3      0x12b c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_abbrev  0x0000221e       0x70 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_abbrev  0x0000228e       0x75 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_abbrev  0x00002303      0x1a9 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_abbrev  0x000024ac      0x199 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_abbrev  0x00002645      0x157 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_abbrev  0x0000279c       0x12 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_abbrev  0x000027ae      0x12f c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_abbrev  0x000028dd       0x46 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_abbrev  0x00002923      0x191 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_abbrev  0x00002ab4       0xea c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_abbrev  0x00002b9e      0x17f c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_abbrev  0x00002d1d       0x43 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_abbrev  0x00002d60       0x12 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_abbrev  0x00002d72      0x10c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_abbrev  0x00002e7e      0x11d c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_abbrev  0x00002f9b      0x124 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_abbrev  0x000030bf       0x97 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_abbrev  0x00003156       0xed c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_abbrev  0x00003243       0xde c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+ .debug_abbrev  0x00003321       0xa1 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-memcmp.o)
+ .debug_abbrev  0x000033c2      0x179 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
+ .debug_abbrev  0x0000353b       0xab c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_line     0x00000000     0x377b
+ *(.debug_line)
+ .debug_line    0x00000000       0x72 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp//obj/HAL/src/crt0.o
+ .debug_line    0x00000072      0x10e obj/default/hello_world.o
+ .debug_line    0x00000180      0x6bf c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(addsf3.o)
+ .debug_line    0x0000083f      0x49b c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(divsf3.o)
+ .debug_line    0x00000cda      0x51e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(mulsf3.o)
+ .debug_line    0x000011f8       0x9a c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .debug_line    0x00001292       0x88 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_line    0x0000131a       0x3f c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clz.o)
+ .debug_line    0x00001359       0xd4 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+ .debug_line    0x0000142d       0xc2 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+ .debug_line    0x000014ef       0x7c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-strlen.o)
+ .debug_line    0x0000156b       0x4c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-impure.o)
+ .debug_line    0x000015b7      0x581 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+ .debug_line    0x00001b38       0xd7 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o)
+ .debug_line    0x00001c0f       0xae c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o)
+ .debug_line    0x00001cbd       0x3a c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-int_errno.o)
+ .debug_line    0x00001cf7      0x2e3 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_line    0x00001fda       0x8f c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_line    0x00002069       0x91 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_line    0x000020fa       0xcf c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_times.o)
+ .debug_line    0x000021c9      0x139 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_line    0x00002302       0xb0 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_line    0x000023b2       0x8a c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_line    0x0000243c       0xa4 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_line    0x000024e0       0x7e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_line    0x0000255e       0xb1 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_line    0x0000260f      0x117 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_line    0x00002726       0x69 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_line    0x0000278f       0xa2 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_line    0x00002831       0xca c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_line    0x000028fb       0x4c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_errno.o)
+ .debug_line    0x00002947       0x63 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_line    0x000029aa       0xf4 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_line    0x00002a9e       0xbc c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_line    0x00002b5a       0xd2 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_line    0x00002c2c       0x6b c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_line    0x00002c97       0xb4 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_line    0x00002d4b       0x43 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_vars.o)
+ .debug_line    0x00002d8e      0x159 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_line    0x00002ee7       0x77 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_line    0x00002f5e       0xf2 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_line    0x00003050       0x51 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_line    0x000030a1       0x9d c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+ .debug_line    0x0000313e       0xa1 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_line    0x000031df       0xd7 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_line    0x000032b6       0xb3 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_line    0x00003369       0x8f c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_line    0x000033f8       0xa1 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_line    0x00003499       0x80 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+ .debug_line    0x00003519       0x8f c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-memcmp.o)
+ .debug_line    0x000035a8      0x159 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
+ .debug_line    0x00003701       0x7a c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_frame    0x00000000      0xcc8
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x90 obj/default/hello_world.o
+ .debug_frame   0x00000090       0x3c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(addsf3.o)
+ .debug_frame   0x000000cc       0x54 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(divsf3.o)
+ .debug_frame   0x00000120       0x54 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(mulsf3.o)
+ .debug_frame   0x00000174       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .debug_frame   0x00000194       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_frame   0x000001b4       0x48 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+ .debug_frame   0x000001fc       0x48 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+ .debug_frame   0x00000244       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-strlen.o)
+ .debug_frame   0x00000264       0x90 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+ .debug_frame   0x000002f4       0x3c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o)
+ .debug_frame   0x00000330       0x30 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o)
+ .debug_frame   0x00000360       0x50 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_frame   0x000003b0       0x5c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_load.o)
+ .debug_frame   0x0000040c       0x2c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o)
+ .debug_frame   0x00000438       0x60 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_times.o)
+ .debug_frame   0x00000498       0x60 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_write.o)
+ .debug_frame   0x000004f8       0x88 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o)
+ .debug_frame   0x00000580       0x60 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+ .debug_frame   0x000005e0       0x34 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_frame   0x00000614       0x34 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_frame   0x00000648       0x60 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+ .debug_frame   0x000006a8       0x60 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_close.o)
+ .debug_frame   0x00000708       0x34 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_frame   0x0000073c       0x34 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev.o)
+ .debug_frame   0x00000770       0x60 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+ .debug_frame   0x000007d0       0x38 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+ .debug_frame   0x00000808       0xa4 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic.o)
+ .debug_frame   0x000008ac       0x38 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+ .debug_frame   0x000008e4       0x60 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_io_redirect.o)
+ .debug_frame   0x00000944       0x38 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_frame   0x0000097c       0x84 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_open.o)
+ .debug_frame   0x00000a00       0x34 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_frame   0x00000a34       0x64 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_tick.o)
+ .debug_frame   0x00000a98       0x34 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_frame   0x00000acc       0x38 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_dev.o)
+ .debug_frame   0x00000b04       0x38 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_frame   0x00000b3c       0x34 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_get_fd.o)
+ .debug_frame   0x00000b70       0x34 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_frame   0x00000ba4       0x5c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_frame   0x00000c00       0x28 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+ .debug_frame   0x00000c28       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-memcmp.o)
+ .debug_frame   0x00000c48       0x54 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
+ .debug_frame   0x00000c9c       0x2c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exit.o)
+
+.debug_str      0x00000000     0x182a
+ *(.debug_str)
+ .debug_str     0x00000000       0x72 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp//obj/HAL/src/crt0.o
+                                 0x79 (size before relaxing)
+ .debug_str     0x00000072      0x117 obj/default/hello_world.o
+                                0x15b (size before relaxing)
+ .debug_str     0x00000189      0x1b5 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(addsf3.o)
+                                0x23a (size before relaxing)
+ .debug_str     0x0000033e       0xfd c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(divsf3.o)
+                                0x25f (size before relaxing)
+ .debug_str     0x0000043b       0x74 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(mulsf3.o)
+                                0x268 (size before relaxing)
+ .debug_str     0x000004af       0x3c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clzsi2.o)
+                                0x15d (size before relaxing)
+ .debug_str     0x000004eb       0xe6 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_str     0x000004eb      0x140 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clz.o)
+ .debug_str     0x000004eb      0x32a c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+                                0x402 (size before relaxing)
+ .debug_str     0x00000815       0x14 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+                                0x3b3 (size before relaxing)
+ .debug_str     0x00000829       0x14 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-strlen.o)
+                                0x114 (size before relaxing)
+ .debug_str     0x00000829        0xd c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-impure.o)
+                                0x390 (size before relaxing)
+ .debug_str     0x00000836      0x292 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+                                0x749 (size before relaxing)
+ .debug_str     0x00000ac8       0x25 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o)
+                                0x3bd (size before relaxing)
+ .debug_str     0x00000aed       0x25 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o)
+                                0x39c (size before relaxing)
+ .debug_str     0x00000aed      0x106 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-int_errno.o)
+ .debug_str     0x00000aed       0x3b c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                                0x122 (size before relaxing)
+ .debug_str     0x00000b28      0x108 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_load.o)
+                                0x1f0 (size before relaxing)
+ .debug_str     0x00000c30       0x61 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o)
+                                0x15a (size before relaxing)
+ .debug_str     0x00000c91       0x50 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_times.o)
+                                0x18f (size before relaxing)
+ .debug_str     0x00000ce1      0x183 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_write.o)
+                                0x2fd (size before relaxing)
+ .debug_str     0x00000e64      0x156 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o)
+                                0x2f9 (size before relaxing)
+ .debug_str     0x00000fba       0x42 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                                0x287 (size before relaxing)
+ .debug_str     0x00000ffc       0x42 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                                0x167 (size before relaxing)
+ .debug_str     0x00000ffc      0x15c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+ .debug_str     0x00000ffc       0xa7 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+                                0x1da (size before relaxing)
+ .debug_str     0x000010a3       0x16 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_close.o)
+                                0x1c0 (size before relaxing)
+ .debug_str     0x000010b9       0xfd c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+ .debug_str     0x000010b9       0x3e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev.o)
+                                0x319 (size before relaxing)
+ .debug_str     0x000010f7       0x11 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                                0x174 (size before relaxing)
+ .debug_str     0x00001108        0x8 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_errno.o)
+                                 0xfa (size before relaxing)
+ .debug_str     0x00001110       0x11 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                                0x116 (size before relaxing)
+ .debug_str     0x00001121       0x94 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic.o)
+                                0x1f6 (size before relaxing)
+ .debug_str     0x000011b5       0x18 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                                0x1b5 (size before relaxing)
+ .debug_str     0x000011cd       0x2c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                                0x324 (size before relaxing)
+ .debug_str     0x000011f9       0x18 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+                                 0x73 (size before relaxing)
+ .debug_str     0x00001211       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                                0x144 (size before relaxing)
+ .debug_str     0x00001231       0x12 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                                 0xf3 (size before relaxing)
+ .debug_str     0x00001243       0x42 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_open.o)
+                                0x234 (size before relaxing)
+ .debug_str     0x00001285      0x17d c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_release_fd.o)
+ .debug_str     0x00001285       0x53 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_tick.o)
+                                0x1fe (size before relaxing)
+ .debug_str     0x000012d8      0x103 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+ .debug_str     0x000012d8       0x1e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+                                 0x79 (size before relaxing)
+ .debug_str     0x000012f6        0x7 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_dev.o)
+                                0x1a4 (size before relaxing)
+ .debug_str     0x000012fd      0x1b1 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_file.o)
+ .debug_str     0x000012fd       0x10 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_get_fd.o)
+                                0x1c1 (size before relaxing)
+ .debug_str     0x0000130d      0x107 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush.o)
+ .debug_str     0x0000130d      0x461 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                                0x546 (size before relaxing)
+ .debug_str     0x0000176e       0x26 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+                                0x136 (size before relaxing)
+ .debug_str     0x00001794      0x10e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-memcmp.o)
+ .debug_str     0x00001794       0x7f c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
+                                0x1b0 (size before relaxing)
+ .debug_str     0x00001813       0x17 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exit.o)
+                                0x105 (size before relaxing)
+
+.debug_loc
+ *(.debug_loc)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_alt_sim_info
+                0x00000000       0x30
+ *(.debug_alt_sim_info)
+ .debug_alt_sim_info
+                0x00000000       0x30 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp//obj/HAL/src/crt0.o
+                0x0000d000                        __alt_data_end = 0xd000
+                0x0000d000                        PROVIDE (__alt_stack_pointer = __alt_data_end)
+                [!provide]                        PROVIDE (__alt_stack_limit = __alt_stack_base)
+                [!provide]                        PROVIDE (__alt_heap_start = end)
+                [!provide]                        PROVIDE (__alt_heap_limit = 0xd000)
+OUTPUT(hello_world.elf elf32-littlenios2)
+LOAD linker stubs
+
+.debug_ranges   0x00000000       0x70
+ .debug_ranges  0x00000000       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp//obj/HAL/src/crt0.o
+ .debug_ranges  0x00000020       0x28 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_entry.o)
+ .debug_ranges  0x00000048       0x28 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exception_entry.o)
+
+.debug_line_str
+                0x00000000      0xed1
+ .debug_line_str
+                0x00000000      0x106 obj/default/hello_world.o
+                                0x16a (size before relaxing)
+ .debug_line_str
+                0x00000106       0xdf c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(addsf3.o)
+                                0x16a (size before relaxing)
+ .debug_line_str
+                0x000001e5       0x33 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(divsf3.o)
+                                0x16a (size before relaxing)
+ .debug_line_str
+                0x00000218       0x3d c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(mulsf3.o)
+                                0x174 (size before relaxing)
+ .debug_line_str
+                0x00000255       0x58 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clzsi2.o)
+                                0x15e (size before relaxing)
+ .debug_line_str
+                0x000002ad       0x76 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+                                0x17e (size before relaxing)
+ .debug_line_str
+                0x00000323      0x15e c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clz.o)
+ .debug_line_str
+                0x00000323      0x23c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+                                0x2e1 (size before relaxing)
+ .debug_line_str
+                0x0000055f       0x3f c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+                                0x2d3 (size before relaxing)
+ .debug_line_str
+                0x0000059e       0x69 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-strlen.o)
+                                0x259 (size before relaxing)
+ .debug_line_str
+                0x00000607       0x67 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-impure.o)
+                                0x25a (size before relaxing)
+ .debug_line_str
+                0x0000066e       0x91 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+                                0x33e (size before relaxing)
+ .debug_line_str
+                0x000006ff       0x43 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o)
+                                0x2e7 (size before relaxing)
+ .debug_line_str
+                0x00000742       0x41 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o)
+                                0x2cf (size before relaxing)
+ .debug_line_str
+                0x00000783       0x3b c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-int_errno.o)
+                                0x186 (size before relaxing)
+ .debug_line_str
+                0x000007be       0x3d c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+                                0x187 (size before relaxing)
+ .debug_line_str
+                0x000007fb       0xa2 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_load.o)
+                                0x104 (size before relaxing)
+ .debug_line_str
+                0x0000089d       0x5e c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_main.o)
+                                0x1cb (size before relaxing)
+ .debug_line_str
+                0x000008fb       0x2c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_times.o)
+                                0x17d (size before relaxing)
+ .debug_line_str
+                0x00000927      0x10c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_write.o)
+                                0x283 (size before relaxing)
+ .debug_line_str
+                0x00000a33       0x92 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_sys_init.o)
+                                0x19b (size before relaxing)
+ .debug_line_str
+                0x00000ac5       0x35 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_fd.o)
+                                0x186 (size before relaxing)
+ .debug_line_str
+                0x00000afa       0x2b c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+                                0x14b (size before relaxing)
+ .debug_line_str
+                0x00000b25       0x2c c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_write.o)
+                                0x14e (size before relaxing)
+ .debug_line_str
+                0x00000b51       0x25 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_timer_sc.o)
+                                0x150 (size before relaxing)
+ .debug_line_str
+                0x00000b76       0x14 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_close.o)
+                                0x187 (size before relaxing)
+ .debug_line_str
+                0x00000b8a       0x1f c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dcache_flush_all.o)
+                                 0xed (size before relaxing)
+ .debug_line_str
+                0x00000ba9       0x12 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev.o)
+                                0x258 (size before relaxing)
+ .debug_line_str
+                0x00000bbb       0x1f c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_dev_llist_insert.o)
+                                0x132 (size before relaxing)
+ .debug_line_str
+                0x00000bda       0x14 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_errno.o)
+                                0x140 (size before relaxing)
+ .debug_line_str
+                0x00000bee       0x1f c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush_all.o)
+                                0x11d (size before relaxing)
+ .debug_line_str
+                0x00000c0d       0x3a c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic.o)
+                                0x12b (size before relaxing)
+ .debug_line_str
+                0x00000c47       0x2f c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_iic_isr_register.o)
+                                0x13a (size before relaxing)
+ .debug_line_str
+                0x00000c76       0x2b c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_io_redirect.o)
+                                0x281 (size before relaxing)
+ .debug_line_str
+                0x00000ca1       0x1a c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_handler.o)
+                                0x10c (size before relaxing)
+ .debug_line_str
+                0x00000cbb       0x17 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_vars.o)
+                                 0xeb (size before relaxing)
+ .debug_line_str
+                0x00000cd2       0x13 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_open.o)
+                                0x129 (size before relaxing)
+ .debug_line_str
+                0x00000ce5       0x19 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_release_fd.o)
+                                0x12f (size before relaxing)
+ .debug_line_str
+                0x00000cfe       0x13 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_tick.o)
+                                0x12a (size before relaxing)
+ .debug_line_str
+                0x00000d11       0x20 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_nios2_gen2_irq.o)
+                                 0xf0 (size before relaxing)
+ .debug_line_str
+                0x00000d31       0x17 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_dev.o)
+                                0x1cc (size before relaxing)
+ .debug_line_str
+                0x00000d48       0x18 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_find_file.o)
+                                0x1e9 (size before relaxing)
+ .debug_line_str
+                0x00000d60       0x15 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_get_fd.o)
+                                0x132 (size before relaxing)
+ .debug_line_str
+                0x00000d75       0x1b c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_icache_flush.o)
+                                 0xf7 (size before relaxing)
+ .debug_line_str
+                0x00000d90       0x3b c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+                                0x143 (size before relaxing)
+ .debug_line_str
+                0x00000dcb       0x70 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+                                0x256 (size before relaxing)
+ .debug_line_str
+                0x00000e3b       0x39 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-memcmp.o)
+                                0x259 (size before relaxing)
+ .debug_line_str
+                0x00000e74       0x40 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
+                                0x1fb (size before relaxing)
+ .debug_line_str
+                0x00000eb4       0x1d c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_exit.o)
+                                 0xe1 (size before relaxing)
+
+.debug_loclists
+                0x00000000     0x2861
+ .debug_loclists
+                0x00000000      0xa52 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(addsf3.o)
+ .debug_loclists
+                0x00000a52      0x6ad c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(divsf3.o)
+ .debug_loclists
+                0x000010ff      0x6eb c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(mulsf3.o)
+ .debug_loclists
+                0x000017ea       0x46 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .debug_loclists
+                0x00001830       0x5b c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-mul.o)
+ .debug_loclists
+                0x0000188b       0xaa c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+ .debug_loclists
+                0x00001935       0x73 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+ .debug_loclists
+                0x000019a8       0x32 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-strlen.o)
+ .debug_loclists
+                0x000019da      0x822 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+ .debug_loclists
+                0x000021fc       0xc5 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o)
+ .debug_loclists
+                0x000022c1       0x88 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o)
+ .debug_loclists
+                0x00002349      0x37a c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_loclists
+                0x000026c3       0x20 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+ .debug_loclists
+                0x000026e3       0x8c c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-memcmp.o)
+ .debug_loclists
+                0x0000276f       0xf2 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
+
+.debug_rnglists
+                0x00000000      0x446
+ .debug_rnglists
+                0x00000000      0x164 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(addsf3.o)
+ .debug_rnglists
+                0x00000164       0x84 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(divsf3.o)
+ .debug_rnglists
+                0x000001e8       0x8b c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(mulsf3.o)
+ .debug_rnglists
+                0x00000273       0x16 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(_clzsi2.o)
+ .debug_rnglists
+                0x00000289       0x19 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-printf.o)
+ .debug_rnglists
+                0x000002a2       0x1a c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-puts.o)
+ .debug_rnglists
+                0x000002bc       0x13 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-strlen.o)
+ .debug_rnglists
+                0x000002cf       0x84 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-vfprintf.o)
+ .debug_rnglists
+                0x00000353       0x14 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-fvwrite_small_dev.o)
+ .debug_rnglists
+                0x00000367       0x13 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-writer.o)
+ .debug_rnglists
+                0x0000037a       0x3f c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/mno-hw-mul\libgcc.a(lib2-divmod.o)
+ .debug_rnglists
+                0x000003b9       0x16 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(altera_avalon_jtag_uart_read.o)
+ .debug_rnglists
+                0x000003cf       0x14 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_irq_handler.o)
+ .debug_rnglists
+                0x000003e3       0x19 c:/Users/Galileo/Documents/system_template_de1_soc/software/hello_world_bsp/\libhal_bsp.a(alt_instruction_exception_entry.o)
+ .debug_rnglists
+                0x000003fc       0x13 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-exit.o)
+ .debug_rnglists
+                0x0000040f       0x13 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-memcmp.o)
+ .debug_rnglists
+                0x00000422       0x24 c:/intelfpga_lite/23.1std/nios2eds/bin/gnu/h-x86_64-mingw32/bin/../lib/gcc/nios2-elf/12.3.1/../../../../../H-x86_64-mingw32/nios2-elf/lib/mno-hw-mul\libsmallc.a(libc_a-__call_atexit.o)
